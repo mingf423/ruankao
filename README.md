@@ -5,6 +5,7 @@
 ## 快速入口
 
 - [官方大纲与考试政策](docs/system-architecture-designer/01_官方大纲与考试政策/README.md)
+- [知识概览图索引](docs/system-architecture-designer/01_官方大纲与考试政策/脑图索引.md)
 - [24 周总学习计划](docs/system-architecture-designer/2027-personal-study-plan.md)
 - [每周独立学习计划](docs/system-architecture-designer/00_学习计划与进度管理/README.md)
 - [综合知识知识库](docs/system-architecture-designer/02_综合知识/README.md)
